@@ -36,7 +36,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clebervasc&include_all_commits=true&show_icons=true&theme=radical)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=clebervasc&hide=TeX&layout=compact)
 
-## ⚡ Projects Pinned
+## Pinned
 
 <a href="https://github.com/clebervasc/nlw-4-move.it">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=clebervasc&repo=nlw-4-move.it&theme=radical" />
