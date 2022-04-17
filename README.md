@@ -33,8 +33,12 @@
 
 ## ⚡ GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clebervasc&include_all_commits=true&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clebervasc&hide=TeX&layout=compact)
+<a href="https://github.com/clebervasc/clebervasc">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=clebervasc&include_all_commits=true&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/clebervasc/clebervasc">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clebervasc&hide=TeX&layout=compact" />
+</a>
 
 - Thanks for visiting.
 
