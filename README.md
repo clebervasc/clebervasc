@@ -4,7 +4,7 @@
 
 :round_pushpin: I’m from Brazil.
 
-:bank: I currently work at Qi Tech [QI TECH](https://www.qitech.com.br)
+:bank: I currently work at [Qi Tech](https://www.qitech.com.br)
  
 
 ## About me
