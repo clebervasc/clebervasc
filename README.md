@@ -1,4 +1,4 @@
-# Hi, I'm Cleber Vasconcelos!
+# Hi, I'm Cleber Vasconcelos! <img src="https://komarev.com/ghpvc/?username=clebervasc" alt="clebervasc" />
 
 :computer: I'm Front-End Developer!
 
@@ -33,11 +33,33 @@
 
 ## ⚡ GitHub Stats
 
-<a href="https://github.com/clebervasc/clebervasc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=clebervasc&include_all_commits=true&show_icons=true&theme=radical" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clebervasc&include_all_commits=true&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=clebervasc&hide=TeX&layout=compact)
+
+## ⚡ Projects Pinned
+
+<a href="https://github.com/clebervasc/nlw-4-move.it">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=clebervasc&repo=nlw-4-move.it&theme=radical" />
 </a>
-<a href="https://github.com/clebervasc/clebervasc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clebervasc&hide=TeX&layout=compact" />
+
+<a href="https://github.com/clebervasc/query-params-constructor">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=clebervasc&repo=query-params-constructor&theme=radical" />
+</a>
+
+<a href="https://github.com/clebervasc/Input-tag">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=clebervasc&repo=Input-tag&theme=radical" />
+</a>
+
+<a href="https://github.com/clebervasc/nlw1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=clebervasc&repo=nlw1&theme=radical" />
+</a>
+
+<a href="https://github.com/clebervasc/landing-page-spiderman">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=clebervasc&repo=landing-page-spiderman&theme=radical" />
+</a>
+
+<a href="https://github.com/clebervasc/loader-pokemon">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=clebervasc&repo=loader-pokemon&theme=radical" />
 </a>
 
 - Thanks for visiting.
