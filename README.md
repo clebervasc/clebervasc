@@ -38,7 +38,7 @@
 
 ## Pinned
 
-<a href="[https://github.com/clebervasc/pokemon-battle](https://github.com/clebervasc/pokemon-battle)">
+<a href="https://github.com/clebervasc/pokemon-battle">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=clebervasc&repo=pokemon-battle&theme=radical" />
 </a>
 
