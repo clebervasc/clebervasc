@@ -62,10 +62,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=clebervasc&repo=landing-page-spiderman&theme=radical" />
 </a>
 
-<a href="https://github.com/clebervasc/loader-pokemon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=clebervasc&repo=loader-pokemon&theme=radical" />
-</a>
-
 - Thanks for visiting.
 
 - Enjoy it!! o/
