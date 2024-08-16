@@ -4,7 +4,7 @@
 
 :round_pushpin: I’m from Brazil.
 
-:bank: I currently work at [NAVA - Technology for business](https://www.nava.com.br/)
+:bank: I currently work at [Mercado Livre](https://www.mercadolivre.com.br/)
  
 
 ## About me
