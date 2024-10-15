@@ -1,6 +1,14 @@
 # Hi, I'm Cleber Vasconcelos! <img src="https://komarev.com/ghpvc/?username=clebervasc" alt="clebervasc" />
 
+🌐 Coding the Future with Geek Style! 
+
 :computer: I'm Front-End Developer!
+
+💡 Learn to code with references from anime, movies, and games
+
+🚀 Master HTML, CSS, and JavaScript with creativity!
+
+
 
 :round_pushpin: I’m from Brazil.
 
@@ -8,8 +16,9 @@
  
 
 ## About me
+[![Linktree Badge](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white&link=https://linktr.ee/_cvasconcelo)](https://linktr.ee/_cvasconcelo)[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/clebervasc)](https://github.com/clebervasc) [![Github Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/clebervasconcelos/)](https://www.linkedin.com/in/clebervasconcelos/)
 
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/clebervasc)](https://github.com/clebervasc) [![Github Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/clebervasconcelos/)](https://www.linkedin.com/in/clebervasconcelos/)
+I'm passionate about coding, using creativity to bring ideas to life! I love combining geek culture with programming, making learning more engaging and fun for developers at all levels.
 
 
 ## 🚀💻 Technologies & Tools
@@ -32,37 +41,6 @@
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 ![BitBucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
-
-## ⚡ GitHub Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clebervasc&include_all_commits=true&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=clebervasc&hide=TeX&layout=compact)
-
-## Pinned
-
-<a href="https://github.com/clebervasc/pokemon-battle">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=clebervasc&repo=pokemon-battle&theme=radical" />
-</a>
-
-<a href="https://github.com/clebervasc/nlw-4-move.it">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=clebervasc&repo=nlw-4-move.it&theme=radical" />
-</a>
-
-<a href="https://github.com/clebervasc/query-params-constructor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=clebervasc&repo=query-params-constructor&theme=radical" />
-</a>
-
-<a href="https://github.com/clebervasc/Input-tag">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=clebervasc&repo=Input-tag&theme=radical" />
-</a>
-
-<a href="https://github.com/clebervasc/nlw1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=clebervasc&repo=nlw1&theme=radical" />
-</a>
-
-<a href="https://github.com/clebervasc/landing-page-spiderman">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=clebervasc&repo=landing-page-spiderman&theme=radical" />
-</a>
 
 - Thanks for visiting.
 
